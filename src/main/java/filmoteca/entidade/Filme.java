@@ -9,11 +9,11 @@ public class Filme implements Serializable {
 	private String diretor;
 	private Classificacao classificao;
 		
-	public Filme(String titulo, String diretor, Classificacao classificao) {
+	public Filme(String titulo, String diretor, Classificacao classificacao) {
 		super();
 		this.titulo = titulo;
 		this.diretor = diretor;
-		this.classificao = classificao;
+		this.classificao = classificacao;
 	}
 	
 	public Long getId() {
