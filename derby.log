@@ -1,0 +1,14 @@
+----------------------------------------------------------------
+Wed Jun 24 20:57:59 BRT 2015:
+ Inicializando o Derby versão The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instância a816c00e-014e-2801-b08f-0000009f6858
+no diretório de banco de dados C:\Users\guilherme.ferro\Documents\Guilherme\ist\3 - Periodo\oo1\github\repositorio\FilmotecaWebMarcio\dados\banco 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_55-b14
+user.dir=c:\Users\guilherme.ferro\Documents\Guilherme\ist\3 - Periodo\oo1\github\repositorio\FilmotecaWebMarcio
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Carregador de classe do banco de dados iniciado - derby.database.classpath=''
+----------------------------------------------------------------
